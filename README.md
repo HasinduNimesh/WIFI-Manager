@@ -1,4 +1,4 @@
-```markdown
+
 # WiFi Manager
 
 WiFi Manager is a Python-based tool designed for educational and authorized network management. It provides functionalities to:
@@ -11,7 +11,7 @@ WiFi Manager is a Python-based tool designed for educational and authorized netw
 
 ## Project Structure
 
-```
+
 wifi_manager/
 ├── src/
 │   ├── scanner/
@@ -30,7 +30,7 @@ wifi_manager/
 │   └── router_config.json        # Router configuration file (optional)
 ├── main.py                       # Main application entry point
 └── requirements.txt              # Project dependencies
-```
+
 
 ## Features
 
