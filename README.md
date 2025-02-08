@@ -1,7 +1,3 @@
-Below is an example `README.md` file for your project. You can adjust it as needed:
-
----
-
 ```markdown
 # WiFi Manager
 
@@ -56,7 +52,7 @@ wifi_manager/
 
 See `requirements.txt`:
 
-```txt
+```
 python-nmap==0.7.1
 scapy==2.5.0
 ```
@@ -66,7 +62,7 @@ scapy==2.5.0
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/wifi_manager.git
+   git clone https://github.com/HasinduNimesh/wifi_manager.git
    cd wifi_manager
    ```
 
@@ -117,7 +113,7 @@ The deauthentication functionality is **only** for educational and authorized te
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/yourusername/wifi_manager/issues).
+Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/HasinduNimesh/wifi_manager/issues).
 
 ## License
 
